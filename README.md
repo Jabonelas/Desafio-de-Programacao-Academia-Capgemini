@@ -8,10 +8,12 @@ Visual Studio Visual Studio 2022 - Download
 
 Passo a passa de como abrir a solução no visual studio
 
-Passo 1: Abra o visual studio, Arquivo >> Abrir >> Projeto/Solução enter image description here
+Passo 1: Abra o visual studio, Arquivo >> Abrir >> Projeto/Solução 
+
+![image](https://user-images.githubusercontent.com/99104618/154601556-e5982bfb-e9a4-4929-8537-e5fdfc056760.png)
+
 
 Passo 2: Selecione o arquivo da source e compile o projeto apertando F5!
 
-enter image description here
+![image](https://user-images.githubusercontent.com/99104618/154601575-d1fbd1bb-877b-4c69-956e-92ca84d6c2c9.png)
 
-(https://camo.githubusercontent.com/f37230134aff3e71959ff5b367b0afcedebe1bdd2c51537211ec0444ae555722/68747470733a2f2f692e696d6775722e636f6d2f4961574b4450652e706e67)
