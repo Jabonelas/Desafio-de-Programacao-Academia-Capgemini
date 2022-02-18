@@ -1,0 +1,8 @@
+C:\Users\israe\source\repos\Desafio de Programação Capgemini\Desafio de Programação Capgemini\bin\Debug\Desafio de Programação Capgemini.exe.config
+C:\Users\israe\source\repos\Desafio de Programação Capgemini\Desafio de Programação Capgemini\bin\Debug\Desafio de Programação Capgemini.exe
+C:\Users\israe\source\repos\Desafio de Programação Capgemini\Desafio de Programação Capgemini\bin\Debug\Desafio de Programação Capgemini.pdb
+C:\Users\israe\source\repos\Desafio de Programação Capgemini\Desafio de Programação Capgemini\obj\Debug\Desafio de Programação Capgemini.csproj.AssemblyReference.cache
+C:\Users\israe\source\repos\Desafio de Programação Capgemini\Desafio de Programação Capgemini\obj\Debug\Desafio de Programação Capgemini.csproj.SuggestedBindingRedirects.cache
+C:\Users\israe\source\repos\Desafio de Programação Capgemini\Desafio de Programação Capgemini\obj\Debug\Desafio de Programação Capgemini.csproj.CoreCompileInputs.cache
+C:\Users\israe\source\repos\Desafio de Programação Capgemini\Desafio de Programação Capgemini\obj\Debug\Desafio de Programação Capgemini.exe
+C:\Users\israe\source\repos\Desafio de Programação Capgemini\Desafio de Programação Capgemini\obj\Debug\Desafio de Programação Capgemini.pdb
