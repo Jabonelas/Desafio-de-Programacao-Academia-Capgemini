@@ -4,7 +4,11 @@
 
 .NET 5.0 .NET 5.0 Desktop Runtime (v5.0.14) - Windows x64 Installer!
 
-Visual Studio Visual Studio 2022 - Download
+https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-5.0.14-windows-x64-installer
+
+Visual Studio Visual Studio 2022 
+
+https://visualstudio.microsoft.com/pt-br/downloads/
 
 **Passo a passa de como abrir a solução no visual studio:**
 
